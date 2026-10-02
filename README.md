@@ -1,6 +1,6 @@
 # LoveMeNot-oled_animation
-ESP32-C3 OLED animation — 247-frame bitmap video playback on SSD1306 | Rawbotics
-# Love Me Not — OLED Animation (ESP32-C3 Mini)
+ESP32 OLED animation — 247-frame bitmap video playback on SSD1306 | Rawbotics
+# Love Me Not — OLED Animation (ESP32)
 
 A 247-frame bitmap animation played on a 128x64 SSD1306 OLED display using an ESP32-C3 Mini.
 
@@ -12,15 +12,15 @@ Part of the **Rawbotics** project series — [rawbotics.io](https://www.instagra
 
 | Component | Detail |
 |---|---|
-| Microcontroller | ESP32-C3 Mini |
+| Microcontroller | ESP32 |
 | Display | 0.96" SSD1306 OLED (128x64, I2C) |
 
 ## Wiring
 
 | OLED Pin | ESP32-C3 Mini Pin |
 |---|---|
-| SDA | GPIO 8 |
-| SCL | GPIO 9 |
+| SDA | GPIO 21 |
+| SCL | GPIO 22 |
 | VCC | 3.3V |
 | GND | GND |
 
