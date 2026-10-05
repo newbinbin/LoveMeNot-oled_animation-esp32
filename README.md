@@ -2,7 +2,7 @@
 ESP32 OLED animation — 247-frame bitmap video playback on SSD1306 | Rawbotics
 # Love Me Not — OLED Animation (ESP32)
 
-A 247-frame bitmap animation played on a 128x64 SSD1306 OLED display using an ESP32-C3 Mini.
+A 247-frame bitmap animation played on a 128x64 SSD1306 OLED display using an ESP32.
 
 Part of the **Rawbotics** project series — [rawbotics.io](https://www.instagram.com/rawbotics.io)
 
@@ -17,7 +17,7 @@ Part of the **Rawbotics** project series — [rawbotics.io](https://www.instagra
 
 ## Wiring
 
-| OLED Pin | ESP32-C3 Mini Pin |
+| OLED Pin | ESP32 Pin |
 |---|---|
 | SDA | GPIO 21 |
 | SCL | GPIO 22 |
