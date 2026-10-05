@@ -56,4 +56,5 @@ Install these via Arduino Library Manager:
 
 - Both files must be in the **same folder** to compile
 - I2C clock is set to 800kHz for smooth playback
-- Built and uploaded using **ArduinoDroid** (Android)
+- Built and uploaded using **VSCode** (Laptop)
+- With PlatformIO
